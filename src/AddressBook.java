@@ -33,7 +33,7 @@ public class AddressBook {
         //addB.getBuddy(0);
         addB.removeBuddy(0); ///removing buddy info
         //System.out.println("Hello "+addB.getBuddy(0));
-        System.out.println("Address Book");
+        System.out.println("Address Book"); //Prints address book
 
     }
 }
