@@ -21,9 +21,9 @@ public class AddressBook {
         return null;
     }
 
-    /*public BuddyInfo getBuddy(int i){
+    public BuddyInfo getBuddy(int i){
         return addBook.get(i);
-    }*/
+    }
 
     //This is the main method
     public static void main(String[] args) {
