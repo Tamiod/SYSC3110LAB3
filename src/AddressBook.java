@@ -29,9 +29,9 @@ public class AddressBook {
     public static void main(String[] args) {
         AddressBook addB = new AddressBook();
         BuddyInfo buddy = new BuddyInfo("John");
-        addB.addBuddy(buddy);
+        addB.addBuddy(buddy); //adding buddy info
         //addB.getBuddy(0);
-        addB.removeBuddy(0);
+        addB.removeBuddy(0); ///removing buddy info
         //System.out.println("Hello "+addB.getBuddy(0));
         System.out.println("Address Book");
 
